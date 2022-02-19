@@ -2,7 +2,8 @@
 
 Function call stack: The function stack is a function that keeps track of  all other into an error in JavaScript. That is nothing but a snapshot of the function stack at that point when the error occurred.
 
-The event loop is the secret by which JavaScript gives us an illusion of being  
+
+The event loop is the secret by which JavaScript gives us an illusion of being
 multithreaded even though it is single-threaded. The below illusion demonstrates 
 the functioning of the event loop well: Here the callback function in the event 
 queue has not yet run and is waiting for its time into the stack when the SetTimeOut
@@ -14,6 +15,7 @@ callback function. From here, this function executes calling other functions ins
 it, if any. This cycle is called the event loop and this is how JavaScript manages 
 its events.
 
+
 ## Memory allocation in JavaScript:
 
   **1. Heap memory:**
@@ -22,7 +24,9 @@ its events.
   **2. Stack memory:**
  Memory allocated in the form of stacks. Mainly used for functions.
 
+
 ![image](https://miro.medium.com/max/752/1*7GXoHZiIUhlKuKGT22gHmA.png)
+
 
 [you can watch this video for more information](https://www.youtube.com/watch?v=8aGhZQkoFbQ) 👈 
 
@@ -55,7 +59,6 @@ Callbacks are used often in JavaScript, and I hope this post helps you understan
 ![image](https://scriptverse.academy/img/tutorials/js-callback-function.png)
 
 [you can read from here for more information](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/) 👈 
-
 
 ------------------------------
 
