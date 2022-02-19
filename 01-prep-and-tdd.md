@@ -16,11 +16,13 @@ its events.
 
 ## Memory allocation in JavaScript:
 
- ### **1. Heap memory:**
+  **1. Heap memory:**
  Data stored randomly and memory allocated.
 
- ### **2. Stack memory:**
+  **2. Stack memory:**
  Memory allocated in the form of stacks. Mainly used for functions.
+
+![image](https://miro.medium.com/max/752/1*7GXoHZiIUhlKuKGT22gHmA.png)
 
 [you can watch this video for more information](https://www.youtube.com/watch?v=8aGhZQkoFbQ) 👈 
 
@@ -49,6 +51,8 @@ If you prefer, you can also write the same callback function as an ES6 arrow fun
 JavaScript is an event-driven programming language. We also use callback functions for event declarations. For example, let’s say we want users to click on a button:</*button id="callback-btn">Click here</button*/> This time we will see a message on the console only when the user clicks on the button:document.queryselector("#callback-btn") .addEventListener("click", function() { console.log("User has clicked on the button!");});So here we select the button first with its id, and then we add an event listener with the addEventListener method. The first one is its type, “click”, and the second parameter is a callback function, which logs the message when the button is clicked. As you can see, callback functions are also used for event declarations in JavaScript.
 
 Callbacks are used often in JavaScript, and I hope this post helps you understand what they actually do and how to work with them easier.
+
+![image](https://scriptverse.academy/img/tutorials/js-callback-function.png)
 
 [you can read from here for more information](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/) 👈 
 
