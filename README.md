@@ -9,5 +9,6 @@ Read class 3 | [03-Express-REST-API](https://leenahmad.github.io/advanced-js-rea
 Read class 4 | [04-Data-Modeling](https://leenahmad.github.io/advanced-js-reading-notes/04-Data-Modeling)
 Read class 6 | [06-Authentication](https://leenahmad.github.io/advanced-js-reading-notes/06-Authentication)
 Read class 7 | [07-Bearer-Authorization](https://leenahmad.github.io/advanced-js-reading-notes/07-Bearer-Authorization)
-Read class 8| [08-Access-Control](https://leenahmad.github.io/advanced-js-reading-notes/08-Access-Control)
-Read class | [09-Authorization-Authentication](https://leenahmad.github.io/advanced-js-reading-notes/09-Authorization-Authentication)
+Read class 8 | [08-Access-Control](https://leenahmad.github.io/advanced-js-reading-notes/08-Access-Control)
+Read class 9 | [09-Authorization-Authentication](https://leenahmad.github.io/advanced-js-reading-notes/09-Authorization-Authentication)
+Read class 10| [10-Stacks-and-Queues](https://leenahmad.github.io/advanced-js-reading-notes/10-Stacks-and-Queues)
