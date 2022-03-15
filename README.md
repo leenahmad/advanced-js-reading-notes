@@ -12,4 +12,4 @@ Read class 7 | [07-Bearer-Authorization](https://leenahmad.github.io/advanced-js
 Read class 8 | [08-Access-Control](https://leenahmad.github.io/advanced-js-reading-notes/08-Access-Control)
 Read class 9 | [09-Authorization-Authentication](https://leenahmad.github.io/advanced-js-reading-notes/09-Authorization-Authentication)
 Read class 10| [10-Stacks-and-Queues](https://leenahmad.github.io/advanced-js-reading-notes/10-Stacks-and-Queues)
-Read class 11| [11-Event-Driven-Applicationss](https://leenahmad.github.io/advanced-js-reading-notes/11-Event-Driven-Applicationss)
+Read class 11| [11-Event-Driven-Applicationss](https://leenahmad.github.io/advanced-js-reading-notes/11-Event-Driven-Applications)
