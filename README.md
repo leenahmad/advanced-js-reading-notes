@@ -16,3 +16,5 @@ Read class 11| [11-Event-Driven-Applicationss](https://leenahmad.github.io/advan
 Read class 12| [12-Socket.io](https://leenahmad.github.io/advanced-js-reading-notes/12-Socket-io)
 Read class 13| [13-Message-Queues](https://leenahmad.github.io/advanced-js-reading-notes/13-Message-Queues)
 Read class 14| [14-trees](https://leenahmad.github.io/advanced-js-reading-notes/14-trees)
+Read class 15| [15-AWS](https://leenahmad.github.io/advanced-js-reading-notes/15-AWS)
+
