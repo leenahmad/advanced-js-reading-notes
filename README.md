@@ -22,5 +22,6 @@ Read class 17| [17-API-Dynamo-and-Lambda](https://leenahmad.github.io/advanced-j
 Read class 18| [18-Component-Based-UI](https://leenahmad.github.io/advanced-js-reading-notes/18-Component-Based-UI)
 Read class 19| [19-Hook](https://leenahmad.github.io/advanced-js-reading-notes/19-Hook)
 Read class 20| [20-effects-hook](https://leenahmad.github.io/advanced-js-reading-notes/20-effects-hook)
+Read class 21| [21-State-with-Reducers](https://leenahmad.github.io/advanced-js-reading-notes/21-State-with-Reducers)
 
 
