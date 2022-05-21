@@ -26,5 +26,7 @@ Read class 21| [21-State-with-Reducers](https://leenahmad.github.io/advanced-js-
 Read class 22| [22-hash-table](https://leenahmad.github.io/advanced-js-reading-notes/22-hash-table)
 Read class 23| [23-Context](https://leenahmad.github.io/advanced-js-reading-notes/23-Context)
 Read class 24| [24-Auth](https://leenahmad.github.io/advanced-js-reading-notes/24-Auth)
+Read class 25| [25-API-Integration](https://leenahmad.github.io/advanced-js-reading-notes/25-API-Integration)
+Read class 26| [26-Graphs](https://leenahmad.github.io/advanced-js-reading-notes/26-Graphs)
 
 
