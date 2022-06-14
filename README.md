@@ -29,5 +29,5 @@ Read class 24| [24-Auth](https://leenahmad.github.io/advanced-js-reading-notes/2
 Read class 25| [25-API-Integration](https://leenahmad.github.io/advanced-js-reading-notes/25-API-Integration)
 Read class 26| [26-Graphs](https://leenahmad.github.io/advanced-js-reading-notes/26-Graphs)
 Read class 32| [32-Ethics](https://leenahmad.github.io/advanced-js-reading-notes/32-Ethics)
-
+Read class 33| [33-open-source](https://leenahmad.github.io/advanced-js-reading-notes/33-open-source)
 
